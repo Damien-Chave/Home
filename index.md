@@ -9,14 +9,15 @@ With this intensive training he went a step forward into technology environment,
 
 ## Links
 
-During the formation (which began with a solid base language programation : C), some projects made in short time (5 days maximum per project) has been released out of the EPITECH servers to show you some of school exercises and what he was capable of doing.
+The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN and Laravel, Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released out of the EPITECH servers to show you some of school exercises and what he was able to do.
 
 ### Here are some pages of Damien's work :
 - [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
 - [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
 - [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise with Batman.
 - [Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/) : The Game of 2048 (customized).
-<a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a> The code of these work examples are available on [GitHub](https://github.com/Damien-Chave).
+
+The code of these work examples are available on [GitHub](https://github.com/Damien-Chave) <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a> .
 
 ## Intership
 
