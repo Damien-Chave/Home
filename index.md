@@ -1,4 +1,4 @@
-# Welcome to Damien Chave Coding Work <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="30px"/></a>
+# Welcome to Damien Chave Coding Work <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
 
 **[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)** made his entrance in 2018 at **[Coding Academy](http://www.coding-academy.fr/la-formation)** by **[EPITECH](http://www.epitech.eu/coding-academy.aspx)** in Lyon.
 
@@ -25,7 +25,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - The Game of 2048 (customized) :
 <br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="80px" /></a>
 
-The code of his work examples is publicly available here <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="30px"/></a>
+The code of his work examples is publicly available here <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
 
 ## Internship to offer ?
 
