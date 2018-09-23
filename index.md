@@ -1,4 +1,4 @@
-# Welcome to Damien Chave Pages ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png =50x)
+# Welcome to Damien Chave Pages ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/64x64/User.png)
 
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
