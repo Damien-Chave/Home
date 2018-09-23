@@ -25,7 +25,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - The Game of 2048 (customized) :
 <br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="80px" /></a>
 
-The code of his work examples are publicly available <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a> .
+The code of his work examples is publicly available here <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a>
 
 ## Intership
 
