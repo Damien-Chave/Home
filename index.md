@@ -28,4 +28,4 @@ Do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com) and yo
 
 ## Resume
 
-![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)
+<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank">![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)</a>
