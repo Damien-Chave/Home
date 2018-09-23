@@ -1,5 +1,5 @@
 ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png) 
-# Welcome to Damien-Chave GitHub Pages
+# Welcome to Damien Chave Pages
 
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
