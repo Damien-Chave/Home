@@ -9,7 +9,7 @@ With this intensive training he went a step forward into technology environment,
 
 ## Links
 
-The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN and Laravel, Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released out of the EPITECH servers to show you some of school exercises and what he was able to do.
+The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN and Laravel, Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here, out of EPITECH servers, to show you some of school exercises and what he was able to do.
 
 ### Here are some pages of Damien's work :
 - [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
