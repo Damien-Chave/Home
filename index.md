@@ -14,7 +14,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 #### Here are some pages of Damien's work...
 
 - A Fir Tree compiled in C language :
-<br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-bnw.png" width="40px" /></a>
+<br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-gb.png" width="40px" /></a>
 
 - An example of JavaScript exercises :
 <br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="80px" /></a>
