@@ -1,4 +1,4 @@
-# Welcome to Damien Chave Pages   <img src="User.ico" alt="Photo" width="60px"/>
+# Welcome to Damien Chave Pages   <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a>
 
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance in 2018 at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon.
