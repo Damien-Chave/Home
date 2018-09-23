@@ -1,8 +1,8 @@
-![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png =30x30) 
+![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png) 
 # Welcome to Damien Chave Pages
 
 
-[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf =_blank) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
+[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
