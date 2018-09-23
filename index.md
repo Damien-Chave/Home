@@ -2,7 +2,7 @@
 # Welcome to Damien-Chave GitHub Pages
 
 
-[Damien Chave]<target-blank>(https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation)<target-blank> by [EPITECH](http://www.epitech.eu/coding-academy.aspx)<target-blank> in Lyon the June 4th, 2018.
+<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank">Damien Chave</a> made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
@@ -14,9 +14,9 @@ With this intensive training he went a step forward into technology environment,
 During the formation (which began with a solid base language programation : C), some projects made in short time (5 days maximum per project) has been released out of the EPITECH servers to show you some of school exercises and what he was capable of doing.
 
 ### Here are some pages of Damien's work :
-- [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/)<target-blank> : A Fir Tree compiled in C language.
-- [JavaScript](https://damien-chave.github.io/JavaScript_exercises/)<target-blank> : An example of JavaScript exercises.
-- [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/)<target-blank> : A copying Front-End exercise of Batman, with Materialize.
+- [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
+- [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
+- [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise of Batman, with Materialize.
 - [Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/)<target-blank> : The Game of 2048 (customized).
 
 
