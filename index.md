@@ -2,7 +2,7 @@
 # Welcome to Damien-Chave GitHub Pages
 
 
-[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)<target="_blank"> made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation)<target-blank> by [EPITECH](http://www.epitech.eu/coding-academy.aspx)<target-blank> in Lyon the June 4th, 2018.
+[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)<target-blank> made his entrance at [Coding Academy](<target-blank>http://www.coding-academy.fr/la-formation)<target-blank> by [EPITECH](http://www.epitech.eu/coding-academy.aspx)<target-blank> in Lyon the June 4th, 2018.
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
