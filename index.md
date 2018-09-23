@@ -17,7 +17,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 <br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-bnw.png" width="40px" /></a>
 
 - An example of JavaScript exercises :
-<br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="100px" /></a>
+<br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="80px" /></a>
 
 - A copying Front-End exercise with Batman :
 <br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="batman.png" width="80px" /></a>
