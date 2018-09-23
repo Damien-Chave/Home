@@ -27,7 +27,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 The code of his work examples is publicly available here <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a>
 
-## Intership to offer ?
+## Internship to offer ?
 
 To validate his certificate's formation, Damien Chave will do an internship during approximately 4 months from the October 15th. 
 Are interested to collaborate with him ?
