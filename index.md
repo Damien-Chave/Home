@@ -11,11 +11,19 @@ With this intensive training he went a step forward into technology environment,
 
 The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN and Laravel, Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here, out of EPITECH servers, to show you some of school exercises and what he was able to do.
 
-#### Here are some pages of Damien's work :
-- [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
-- [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
-- [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise with Batman.
-- <a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="20px" /></a> : The Game of 2048 (customized).
+#### Here are some pages of Damien's work...
+
+- A Fir Tree compiled in C language :
+<br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-animation-console.gif" width="60px" /></a>
+
+- An example of JavaScript exercises :
+<br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="40px" /></a>
+
+- A copying Front-End exercise with Batman :
+<br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="Batman.png" width="40px" /></a>
+
+- The Game of 2048 (customized) :
+<br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="60px" /></a>
 
 The code of his work examples are publicly available <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a> .
 
