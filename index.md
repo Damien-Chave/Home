@@ -17,7 +17,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise with Batman.
 - [Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/) : The Game of 2048 (customized).
 
-The code of these work examples are available on [GitHub](https://github.com/Damien-Chave) <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a> .
+The code of these work examples are available on [GitHub](https://github.com/Damien-Chave) <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="40px"/></a> .
 
 ## Intership
 
