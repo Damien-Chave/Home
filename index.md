@@ -15,9 +15,9 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
 - [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
 - [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise with Batman.
-- <a href="https://damien-chave.github.io/2048_CA-Epitech/" target="_blank">[Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/)</a> : The Game of 2048 (customized).
+- <a href="https://damien-chave.github.io/2048_CA-Epitech/" target="_blank">![Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/)</a> : The Game of 2048 (customized).
 
-The code of his work examples are publicly available <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="40px" target="_blank"/></a> .
+The code of his work examples are publicly available <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a> .
 
 ## Intership
 
