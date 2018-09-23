@@ -24,7 +24,7 @@ During the formation (which began with a solid base language programation : C), 
 
 To validate his certificate's formation, Damien Chave will do an internship during approximately 4 months from the October 15th. 
 Are interested to collaborate with him ?
-Do not hesitate to contact him at damien.chave.pro@gmail.com and you can also fill the quizz [here](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
+Do not hesitate to contact him at [damien.chave.pro@gmail.com](mailto:damien.chave.pro@gmail.com) and you can also fill the quizz [here](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
 
 ## Resume
 
