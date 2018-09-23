@@ -14,16 +14,16 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 #### Here are some pages of Damien's work...
 
 - A Fir Tree compiled in C language :
-<br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-animation-console.gif" width="60px" /></a>
+<br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="sublime-tree.png" width="100px" /></a>
 
 - An example of JavaScript exercises :
-<br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="40px" /></a>
+<br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="100px" /></a>
 
 - A copying Front-End exercise with Batman :
-<br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="batman.png" width="40px" /></a>
+<br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="batman.png" width="80px" /></a>
 
 - The Game of 2048 (customized) :
-<br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="60px" /></a>
+<br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="80px" /></a>
 
 The code of his work examples are publicly available <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="40px"/></a> .
 
