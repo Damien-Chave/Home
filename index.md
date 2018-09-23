@@ -20,7 +20,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 <br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="40px" /></a>
 
 - A copying Front-End exercise with Batman :
-<br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="Batman.png" width="40px" /></a>
+<br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="batman.png" width="40px" /></a>
 
 - The Game of 2048 (customized) :
 <br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="60px" /></a>
