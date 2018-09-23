@@ -28,3 +28,4 @@ Do not hesitate to contact him at damien.chave.pro@gmail.com and you can also fi
 
 ## Resume
 
+![CV Damien Chave](CV Damien Chave.pdf)
