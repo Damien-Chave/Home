@@ -1,37 +1,30 @@
-## Welcome to Damien-Chave GitHub Pages
+![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png) 
+# Welcome to Damien-Chave GitHub Pages
 
-![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Damien Chave](https://www.linkedin.com/in/damien-chave-pro/) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) [by EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
 
-### Markdown
+Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Links
 
-- Bulleted
-- List
+During the formation (which began with a solid base language programation : C), some projects made in short time (5 days maximum per project) has been released out of the EPITECH servers to show you some of school exercises and what he was capable of doing.
 
-1. Numbered
-2. List
+### Here are some Pages of Damien's programs :
+- [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
+- [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
+- [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise of Batman, with Materialize.
+- [Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/) : The Game of 2048 (customized).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Intership
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To validate his certificate's formation, Damien Chave will do an internship during approximately 4 months from the October 15th. 
+Are interested to collaborate with him ?
+Do not hesitate to contact him at damien.chave.pro@gmail.com and you can also fill the quizz [here](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
 
-### Jekyll Themes
+## Resume
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Damien-Chave/Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
