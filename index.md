@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Damien-Chave GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Damien-Chave/Home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Photo](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwilzr2C78_dAhUH1BoKHU2iAH4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.softicons.com%2Ffolder-icons%2Fblumarble-folders-icons-by-lukeedee%2Fuser-folder-icon&psig=AOvVaw2g540vHZUSLtisuLdBcAZp&ust=1537748813152531)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
