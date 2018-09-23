@@ -1,5 +1,4 @@
-# Welcome to Damien Chave Pages   <a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a>
-
+# Welcome to Damien Chave Pages   
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance in 2018 at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon.
 
@@ -17,13 +16,14 @@ During the formation (which began with a solid base language programation : C), 
 - [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
 - [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise with Batman.
 - [Rush 2048](https://damien-chave.github.io/2048_CA-Epitech/) : The Game of 2048 (customized).
-
+<a href="https://github.com/Damien-Chave"><img src="User.ico" alt="Photo" width="60px"/></a> The code of these work examples are available on [GitHub](https://github.com/Damien-Chave).
 
 ## Intership
 
 To validate his certificate's formation, Damien Chave will do an internship during approximately 4 months from the October 15th. 
 Are interested to collaborate with him ?
 Do not hesitate to contact him at [damien.chave.pro@gmail.com](mailto:damien.chave.pro@gmail.com) and you can also fill the quizz [here](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
+
 
 ## Resume
 
