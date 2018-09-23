@@ -1,5 +1,4 @@
-p1
-# Welcome to Damien Chave Pages ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png)<img alt="Photo" width="50"/>
+# Welcome to Damien Chave Pages <img ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png) alt="Photo" width="50"/>
 
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance in 2018 at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon.
@@ -9,7 +8,6 @@ Initially coming from technical training in electronics and home automation, he 
 With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning. 
 
 
-p2
 ## Links
 
 During the formation (which began with a solid base language programation : C), some projects made in short time (5 days maximum per project) has been released out of the EPITECH servers to show you some of school exercises and what he was capable of doing.
