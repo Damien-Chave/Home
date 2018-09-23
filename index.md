@@ -1,14 +1,12 @@
-(setq markdown-css-paths `("./style.css")`)
-# Welcome to Damien Chave Pages ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png)
+# Welcome to Damien Chave Pages ![Photo](http://files.softicons.com/download/folder-icons/blumarble-folders-icons-by-lukeedee/png/128x128/User.png =50x)
 
 
 [Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
 
-````
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
 With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning. 
-````
+
 
 
 ## Links
