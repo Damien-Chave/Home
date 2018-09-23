@@ -2,7 +2,7 @@
 # Welcome to Damien-Chave GitHub Pages
 
 
-[Damien Chave](https://www.linkedin.com/in/damien-chave-pro/) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
+[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf) made his entrance at [Coding Academy](http://www.coding-academy.fr/la-formation) by [EPITECH](http://www.epitech.eu/coding-academy.aspx) in Lyon the June 4th, 2018.
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
@@ -13,7 +13,7 @@ With this intensive training he went a step forward into technology environment,
 
 During the formation (which began with a solid base language programation : C), some projects made in short time (5 days maximum per project) has been released out of the EPITECH servers to show you some of school exercises and what he was capable of doing.
 
-### Here are some Pages of Damien's programs :
+### Here are some pages of Damien's work :
 - [Fir Tree with C](https://damien-chave.github.io/Fir_tree_CA-Epitech/) : A Fir Tree compiled in C language.
 - [JavaScript](https://damien-chave.github.io/JavaScript_exercises/) : An example of JavaScript exercises.
 - [Materialize](https://damien-chave.github.io/materialize_Batman_exercise/) : A copying Front-End exercise of Batman, with Materialize.
@@ -28,4 +28,4 @@ Do not hesitate to contact him at damien.chave.pro@gmail.com and you can also fi
 
 ## Resume
 
-![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)
+![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.png)
