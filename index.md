@@ -29,7 +29,7 @@ The code of his work examples is publicly available here <a href="https://github
 
 ## Internship to offer ?
 
-To validate his certificate's formation, Damien Chave will do an internship during approximately 4 months from the October 15th. 
+To validate his certificate's formation, Damien Chave will need to do an internship during a minimum of 1 month to 6 months. He'll be available from the October 15th.
 Are interested to collaborate with him ?
 Do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com) and you can also fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
 
