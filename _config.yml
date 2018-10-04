@@ -1,3 +1,11 @@
 theme: jekyll-theme-modernist
-images:
-    - CV Damien Chave.pdf
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
+  
+image: "CV Damien Chave.pdf"
