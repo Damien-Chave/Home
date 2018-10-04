@@ -36,7 +36,7 @@ Do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com) and yo
 
 ## Resume
 
-<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" width="100%" target="_blank">![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)</a>
+<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" width="70%" target="_blank">![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)</a>
 **[Click & Download](https://github.com/Damien-Chave/Home/raw/master/CV%20Damien%20Chave.pdf)**
 
 <script type="text/javascript" src="title.js"></script>
