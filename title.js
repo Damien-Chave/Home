@@ -6,7 +6,7 @@ window.onload = function() {
 	var github = header.getElementsByTagName("ul")[0];
 	
 	headTitle.innerHTML = "Damien Chave Coding Pages";
-  	h1.innerHTML = "Welcome to Damien Chave Coding Pages";
+  	h1.innerHTML = "<span color='black'>Welcome to Damien Chave Coding Pages</span>";
 	para.remove();
 	github.remove();
 	console.log(github);
