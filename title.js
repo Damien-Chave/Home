@@ -7,6 +7,7 @@ window.onload = function() {
 	
 	headTitle.innerHTML = "Damien Chave Coding Pages";
   	h1.innerHTML = "Welcome to Damien Chave Coding Pages";
+	para.remove();
 	github.remove();
 	console.log(github);
 };
