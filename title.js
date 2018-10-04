@@ -1,6 +1,10 @@
 window.onload = function() {
 	var headTitle = document.getElementsByTagName("title")[0];
-	var repo = document.getElementsByTagName("title")[1];
+	var header = document.getElementsByTagName("header")[0];
+	var h1 = header.getElementsByTagName("h1")[0];
+	var github = header.getElementsByTagName("ul")[0];
+	
 	headTitle.innerHTML = "Damien Chave Coding Pages";
-  	repo.innerHTML = "Home repository";
+  	h1.innerHTML = "Welcome to Damien Chave Coding Pages !";
+	github.delete();
 };
