@@ -1,6 +1,3 @@
-<head>
-	<title>Damien Chave</title>
-</head>
 # Welcome to Damien Chave Coding Pages
 
 **[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)** made his entrance in 2018 at **[Coding Academy](http://www.coding-academy.fr/la-formation)** by **[EPITECH](http://www.epitech.eu/coding-academy.aspx)** in Lyon.
@@ -43,4 +40,6 @@ Do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com) and yo
 
 <a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank">![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)</a>
 **[Click & Download](https://github.com/Damien-Chave/Home/raw/master/CV%20Damien%20Chave.pdf)**
+
+<script type="text/javascript" src="title.js"></script>
 
