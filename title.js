@@ -5,6 +5,7 @@ window.onload = function() {
 	var para = header.getElementsByTagName("p")[0];
 	var github = header.getElementsByTagName("ul")[0];
 	
+	Console.log(github);
 	headTitle.innerHTML = "Damien Chave Coding Pages";
   	h1.innerHTML = "Welcome to Damien Chave Coding Pages";
 	//delete para;
