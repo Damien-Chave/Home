@@ -26,7 +26,8 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - And thanks to Heroku which permits to push online for free a Symfony4 website : 
 <br><a href="http://app-sf4.herokuapp.com" target="_blank">Space Bar (learning tutorial)</a>
 
-The code of his work examples is publicly available here <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
+The code lines of these examples are publicly available here :
+<br><a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
 
 ## Internship to offer ?
 
