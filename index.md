@@ -19,7 +19,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 - <a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank">The Game of 2048 (customized)<br><img src="Gameof2048.png" width="80px" /></a>
 
-- <a href="https://damien-chave.github.io/cours-saxo/" target="_blank">Test of bootstrap template integration <pre>(showing a website example for a saxophone professor)</pre><br><img src="https://cdn4.iconfinder.com/data/icons/orchestra/png/256/folder.png" width="80px" /></a>
+- <a href="https://damien-chave.github.io/cours-saxo/" target="_blank">Test of bootstrap template integration<br><img src="https://cdn4.iconfinder.com/data/icons/orchestra/png/256/folder.png" width="80px" /></a>
 
 - And thanks to Heroku, which permits to push online for free a Symfony4 website :<a href="http://app-sf4.herokuapp.com" target="_blank">
 <br>Space Bar (learning tutorial)</a>
