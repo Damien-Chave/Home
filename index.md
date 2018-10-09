@@ -29,8 +29,7 @@ All of these code lines are publicly available : <a href="https://github.com/Dam
 ## Internship to offer ?
 
 To validate his certificate's formation, Damien Chave will need to do an internship during a minimum of 1 month to 6 months. He'll be available from the October 15th.
-Are interested to collaborate with him ?
-Do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com) and you can also fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
+If you know about an offer for job/internship in web development, you'll find his resume at the bottom of this page and do not hesitate to [send him an email](mailto:damien.chave.pro@gmail.com). You can also fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSe5XfgPAcuN6r-FDk90TFcjHp_HXorV7jOqLE_VWCqWw3SCug/viewform?usp=sf_link).
 
 
 ## Resume
