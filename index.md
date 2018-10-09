@@ -2,7 +2,7 @@
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
-With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning. 
+With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
 
 
 ## Links
@@ -11,25 +11,25 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 #### Here are some pages of Damien's work...
 
-- A Fir Tree compiled in C language :
+- [A Fir Tree compiled in C language :](https://damien-chave.github.io/Fir_tree_CA-Epitech)
 <br><a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank"><img src="tree-bnw.png" width="40px" /></a>
 
-- An example of JavaScript exercises :
+- [An example of JavaScript exercises :](https://damien-chave.github.io/JavaScript_exercises)
 <br><a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank"><img src="JS-exercises.png" width="80px" /></a>
 
-- A copying Front-End exercise with Batman :
+- [A copying Front-End exercise with Batman :](https://damien-chave.github.io/materialize_Batman_exercise)
 <br><a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank"><img src="batman.png" width="80px" /></a>
 
-- The Game of 2048 (customized) :
+- [The Game of 2048 (customized) :](https://damien-chave.github.io/2048_CA-Epitech)
 <br><a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank"><img src="Gameof2048.png" width="80px" /></a>
 
-- Damien started a website example for his saxophone professor :
+- [Damien tested a bootstrap template to start a website example (for his saxophone professor) :](https://damien-chave.github.io/cours-saxo/)
 <br><a href="https://damien-chave.github.io/cours-saxo/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/orchestra/png/256/folder.png" width="80px" /></a>
 
-- And thanks to Heroku, which permits to push online for free a Symfony4 website : 
+- [And thanks to Heroku, which permits to push online for free a Symfony4 website :](http://app-sf4.herokuapp.com)
 <br><a href="http://app-sf4.herokuapp.com" target="_blank">Space Bar (learning tutorial)</a>
 
-The code lines of these examples are publicly available here :
+[The code lines of these examples are publicly available here :](https://github.com/Damien-Chave)
 <br><a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
 
 ## Internship to offer ?
