@@ -35,7 +35,7 @@ If you know about an offer for job/internship in web development, you'll find hi
 
 ## Resume
 
-<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank">![CV Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)</a>
+<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank"><img href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" width="100%"></a>
 **[Click & Download](https://github.com/Damien-Chave/Home/raw/master/CV%20Damien%20Chave.pdf)**
 
 <script type="text/javascript" src="title.js"></script>
