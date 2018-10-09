@@ -2,12 +2,12 @@
 
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
-With this intensive training he went a step forward into technology environment, particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
+With this intensive training, he went a step forward into technology environment and particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
 
 
 ## Links
 
-The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN and Laravel, Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here, out of EPITECH servers, to show you some of school exercises and what he was able to do.
+The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here, out of EPITECH servers, to show you some of school exercises and what he was able to do.
 
 #### Here are some pages of Damien's work...
 
