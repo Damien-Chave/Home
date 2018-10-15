@@ -11,13 +11,13 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 #### Here are some pages of Damien's work...
 
-- <a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank">A Fir Tree compiled in C language<br><img src="tree-bnw.png" width="40px" /></a>
-
 - <a href="https://damien-chave.github.io/JavaScript_exercises" target="_blank">An example of JavaScript exercises<br><img src="JS-exercises.png" width="80px" /></a>
 
 - <a href="https://damien-chave.github.io/materialize_Batman_exercise" target="_blank">A copying Front-End exercise with Batman<br><img src="batman.png" width="80px" /></a>
 
 - <a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank">The Game of 2048 (customized)<br><img src="Gameof2048.png" width="80px" /></a>
+
+- <a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank">A Fir Tree compiled in C language<br><img src="tree-bnw.png" width="40px" /></a>
 
 - Thanks to Heroku, which permits to push online for free a Symfony4 website :<a href="http://app-sf4.herokuapp.com" target="_blank">
 <br>Space Bar (learning tutorial)</a>
