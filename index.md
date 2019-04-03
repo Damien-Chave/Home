@@ -28,7 +28,7 @@ All of these code lines are publicly available : <a href="https://github.com/Dam
 
 Damien passed his certificate's formation (good enough awarded) and has done an internship during 5 months in a Digital Services Company at SQLI. 
 Now he's looking for a permanent contract starting from May.
-If you know about an offer for job in web development, you'll find his resume at the bottom of this page and you can [send him an email](mailto:damien.chave.pro@gmail.com).
+If you know about a job offer in web development, you'll find his resume at the bottom of this page and you can [send him an email](mailto:damien.chave.pro@gmail.com).
 
 ## Resume
 
