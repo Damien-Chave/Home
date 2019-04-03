@@ -25,7 +25,6 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 All of these code lines are publicly available : <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
 
-## ~~Internship to offer ?~~
 ## Permanent Contract to offer ?
 
 Damien passed his certificate's formation (good enough awarded) and has done an internship during 5 months in a Digital Services Company at SQLI. 
