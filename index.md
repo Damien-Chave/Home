@@ -17,7 +17,7 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 
 - <a href="https://damien-chave.github.io/2048_CA-Epitech" target="_blank">The Game of 2048 (customized)<br><img src="Gameof2048.png" width="80px" /></a>
 
-- <a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank">A Fir Tree compiled in C language<br><img src="tree-bnw.jpg" width="40px" /></a>
+- <a href="https://damien-chave.github.io/Fir_tree_CA-Epitech" target="_blank">A Fir Tree compiled in C language<br></a>
 
 - Thanks to Heroku, which permits to deploy online for free a Symfony4 website :<a href="http://app-sf4.herokuapp.com" target="_blank">
 <br>- Space Bar (learning tutorial)</a>
