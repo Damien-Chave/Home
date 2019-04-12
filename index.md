@@ -5,7 +5,7 @@ Initially coming from technical training in electronics and home automation, he 
 With this intensive training, he went a step forward into technology environment and particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
 
 
-## Links
+## Work illustration
 
 The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here on github, out of EPITECH servers, to show you some of school exercises, and what he was able to do.
 
