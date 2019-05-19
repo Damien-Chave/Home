@@ -32,8 +32,7 @@ If you know about a job offer in web development, you'll find his resume at the 
 
 ## Resume
 
-<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank"><img src="thumb.png" width="100%"></a><br>
+<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank"><img src="A5D5DB1B-5E9E-4FFC-A65F-7F031DB1453E.jpeg" width="100%"></a><br>
 **[Click & Download](https://github.com/Damien-Chave/Home/raw/master/CV%20Damien%20Chave.pdf)**
 
 <script type="text/javascript" src="title.js"></script>
-
