@@ -1,5 +1,3 @@
-**[Damien Chave](https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf)** made his entrance in 2018 at **[Coding Academy](http://www.coding-academy.fr/la-formation)** by **[EPITECH](http://www.epitech.eu/coding-academy.aspx)** in Lyon.
-
 Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
 
 With this intensive training, he went a step forward into technology environment and particularly in web development. The formation he is doing has prooven its pedagogical method for years from EPITA and EPITECH, defined through project-based learning.
