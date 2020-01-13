@@ -22,17 +22,5 @@ The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (j
 - Thanks to Heroku, which permits to deploy online for free a Symfony4 website :<a href="http://app-sf4.herokuapp.com" target="_blank">
 <br>- Space Bar (learning tutorial)</a>
 
-All of these code lines are publicly available : <a href="https://github.com/Damien-Chave" target="_blank"><img src="User.ico" alt="Photo" width="35px"/></a>
-
-## Permanent Contract to offer ?
-
-Damien passed his certificate's formation (good enough awarded) and has done an internship during 5 months in a Digital Services Company at SQLI. 
-Now he's looking for a permanent contract starting from May.
-If you know about a job offer in web development, you'll find his resume at the bottom of this page and you can [send him an email](mailto:damien.chave.pro@gmail.com).
-
-## Resume
-
-<a href="https://damien-chave.github.io/Home/CV%20Damien%20Chave.pdf" target="_blank"><img src="thumb.png" width="100%"></a><br>
-**[Click & Download](https://github.com/Damien-Chave/Home/raw/master/CV%20Damien%20Chave.pdf)**
 
 <script type="text/javascript" src="title.js"></script>
