@@ -3,7 +3,7 @@ Initially coming from technical training in electronics and home automation, I p
 
 ## Work illustration
 
-The training from Coding Academy by Epitech includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here on github, out of Epitech servers, to show you some of school exercises, and what he was able to do.
+The training from Coding Academy by Epitech included C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) are released here on github, out of Epitech servers, to show you some of school exercises, and what he was able to do.
 
 #### Here are some pages of Damien's work...
 
