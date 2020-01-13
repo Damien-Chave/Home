@@ -1,9 +1,9 @@
-Initially coming from technical training in electronics and home automation, he passed a complementing marketing and commerce master graduation. Following these studies, he traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (his home country).
+Initially coming from technical training in electronics and home automation, I passed a complementing marketing and commerce master graduation. Following these studies, I traveled and worked in various professional environments with various positions qualifications, somewhat in Australia and in France (home country).
 
 
 ## Work illustration
 
-The training includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here on github, out of EPITECH servers, to show you some of school exercises, and what he was able to do.
+The training from Coding Academy by Epitech includes C language, HTML & CSS, Bootstrap, SQL, PHP, JavaScript (jQuery), MEAN stack, Laravel and Symfony frameworks. During the formation, some projects (made in short time, max 5 days/project) has been released here on github, out of Epitech servers, to show you some of school exercises, and what he was able to do.
 
 #### Here are some pages of Damien's work...
 
