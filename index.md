@@ -18,5 +18,6 @@ The training from Coding Academy by Epitech included C language, HTML & CSS, Boo
 - Thanks to Heroku, which permits to deploy online for free a Symfony4 website :<a href="http://app-sf4.herokuapp.com" target="_blank">
 <br>- Space Bar (learning tutorial)</a>
 
+You can find most recent news on <a href="https://www.damien-chave.fr/" target="_blank">Damien Chave personal website</a>
 
 <script type="text/javascript" src="title.js"></script>
